@@ -1,0 +1,21 @@
+{
+  "name": "natural-demo-doc-dumi-202005",
+  "version": "1.0.0",
+  "description": "dumi学习",
+  "devDependencies": {
+    "dumi": "^1.0.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ui-javascript/natural-demo-doc-dumi-202005.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ui-javascript/natural-demo-doc-dumi-202005/issues"
+  },
+  "homepage": "https://github.com/ui-javascript/natural-demo-doc-dumi-202005#readme"
+}
